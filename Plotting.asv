@@ -1,0 +1,13 @@
+% Computation speed or Elapsed Time for the feature set
+% figure
+
+c1 = categorical({'Exercise a ' 'Exercise a' 'Exercise a' 'Exercises'});
+y1 = [99, 99 ,98.8 ,96.7];
+
+% c = categorical({'Time-Domain Feature-set','TD+Frequency-Domain Features','TD+FD+AR time-series Model'});
+% y = [80.67 86.83 92 ];
+barh(c1,y1,'stacked')
+ %plot(c,Accuracies) 
+% bar(c,Accuracies,'FaceColor',[0,0.5,0.5],...
+%        'EdgeColor',[0,0,0.9],...
+%        'LineWidth',1)
