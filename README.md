@@ -19,5 +19,4 @@ for mc = 1:MC
 end
 stoptime = toc;
 
-After running the above mcode in matlab, validation accuracy can be observed for given classifier(such as Support Vector Machine SVM, Random Forest RF, KNN ) with a Feature vector Table of any exercise (E1:- 12 Class, E2:- 17Class, E3:- 23 Class or DB:- all 52 Classes). 
-In the same master branch, also have provided the outputs of 'confusion matrices'(different image files and mat files) created under various classifiers functions. Thanks for reading :)
+After running the above mcode in matlab, validation accuracy can be observed for given classifier(such as Support Vector Machine SVM, Random Forest RF, KNN ) with a Feature vector Table of any exercise (E1:- 12 Class, E2:- 17Class, E3:- 23 Class or DB:- all 52 Classes).  Thanks for reading :)
